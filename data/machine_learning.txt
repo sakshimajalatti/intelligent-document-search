@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence.
+Machine learning algorithms learn patterns from data.
+Common machine learning tasks include classification, regression, and clustering.
+Python is widely used for machine learning.
